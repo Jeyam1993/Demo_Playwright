@@ -5,3 +5,4 @@ Importing the Playwright, Java and other packages
 Launch Browser
 Navigate URL
 Get the Page Title
+After that Browser closed
